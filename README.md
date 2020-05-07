@@ -1,5 +1,7 @@
 # Computer Architecture Assembler
 
+First, I designed a virtual microprocessor in a logic simulator. Then, I wrote the assembler program that assembles code to run in my microprocessor's memory. I chose to use Java and the Swing GUI Widget Toolkit. I was awarded extra credit for my user interface design.
+
 To run the assembler, download and run the Assembler.jar file.
 The <i>About</i> button shows more detailed instructions on what each button does.
 The choose file button opens up a file chooser to select the file,
