@@ -10,4 +10,4 @@ and assembles the file all at once.<br />
 
 <i>testFile1.asm</i> and <i>testFile2.asm</i> are provided to test the program. When complete, the assembler will generate <i>memory.txt</i> and <i>symbols.txt</i> files.
 
-<a href="https://youtu.be/9-8unV0QiQU" target="_blank"><img src="https://tloula.github.io/images/project-4.png" alt="Assembler Screenshot" /></a>
+<a href="https://youtu.be/-mNDGOR-bmY" target="_blank"><img src="https://tloula.github.io/images/project-4.png" alt="Assembler Screenshot" /></a>
